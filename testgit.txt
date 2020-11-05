@@ -1,1 +1,1 @@
-testgit-centos
+testgit-centos-testssh
